@@ -29,6 +29,11 @@ player = Player(world.starting_room)
 # traversal_path = ['n', 'n']
 traversal_path = []
 
+# Implement a BFS, which will require a Queue
+# Queue keeps track of enqueue a value, a dequeue, and size of the queue
+
+# create a class
+
 
 
 # TRAVERSAL TEST
